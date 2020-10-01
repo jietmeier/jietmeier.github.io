@@ -3,7 +3,7 @@
     <id>http://jietmeier.xyz</id>
     <title>jietmeier&#39;s blog</title>
     <link href="http://jietmeier.xyz" />
-    <updated>2020-09-30T10:31:16.877Z</updated>
+    <updated>2020-09-25T11:47:00.000Z</updated>
     <entry>
         <id>http://jietmeier.xyz/2020/09/java/</id>
         <title>Java一点笔记</title>
@@ -142,7 +142,25 @@
 &lt;h2 id=&#34;四舍五入&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#四舍五入&#34;&gt;#&lt;/a&gt; 四舍五入&lt;/h2&gt;
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;class&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;test3&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(String[] args)&lt;/span&gt; &lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        System.out.println(Math.round(&lt;span class=&#34;number&#34;&gt;1.5&lt;/span&gt;)); &lt;span class=&#34;comment&#34;&gt;//四舍五入&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        System.out.println(Math.floor(&lt;span class=&#34;number&#34;&gt;1.5&lt;/span&gt;)); &lt;span class=&#34;comment&#34;&gt;//向下取整&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        System.out.println(Math.ceil(&lt;span class=&#34;number&#34;&gt;1.5&lt;/span&gt;)); &lt;span class=&#34;comment&#34;&gt;//向上取整&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
-        <updated>2020-09-30T10:31:16.877Z</updated>
+        <updated>2020-09-25T11:47:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://jietmeier.xyz/2020/09/start/</id>
+        <title>start</title>
+        <link rel="alternate" href="http://jietmeier.xyz/2020/09/start/"/>
+        <content type="html">&lt;h2 id=&#34;hexo建博客&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#hexo建博客&#34;&gt;#&lt;/a&gt; Hexo 建博客&lt;/h2&gt;
+&lt;p&gt;曾经两度建 blog，结果都懒到荒废，最近又开始想搞了，希望这次能坚持下去…&lt;/p&gt;
+&lt;p&gt;之前用的是阿里云的服务器，直接有现成的应用镜像，就直接用 WordPress 了，也省心，不用自己配置环境。&lt;/p&gt;
+&lt;p&gt;这次打算用 github page+hexo&lt;/p&gt;
+&lt;p&gt;想尝试尝试新东西，这次自己配置环境。&lt;/p&gt;
+&lt;p&gt;还因为上学期有幸认识了一个大佬，他就是用 Hexo 做的博客&lt;/p&gt;
+&lt;p&gt;搭建过程参考的别人的教程&lt;/p&gt;
+&lt;h3 id=&#34;参考文章&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#参考文章&#34;&gt;#&lt;/a&gt; 参考文章&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://thief.one/2017/03/03/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/&#34;&gt;https://thief.one/2017/03/03/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/35668237&#34;&gt;https://zhuanlan.zhihu.com/p/35668237&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&#34;https://www.jianshu.com/p/c7397489757c&#34;&gt;https://www.jianshu.com/p/c7397489757c&lt;/a&gt;&lt;/p&gt;
+</content>
+        <updated>2020-09-24T14:21:12.000Z</updated>
     </entry>
     <entry>
         <id>http://jietmeier.xyz/2020/09/hello-world/</id>
@@ -163,6 +181,6 @@
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;More info: &lt;a href=&#34;https://hexo.io/docs/one-command-deployment.html&#34;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
 </content>
-        <updated>2020-09-24T15:44:36.201Z</updated>
+        <updated>2020-09-24T14:17:49.000Z</updated>
     </entry>
 </feed>
