@@ -16,11 +16,11 @@
 &lt;p&gt;&lt;a href=&#34;https://vjudge.net/problem/CodeForces-599D&#34;&gt;E - Echol 和方格&lt;/a&gt; &lt;a href=&#34;https://vjudge.net/problem/CodeForces-599D/origin&#34;&gt;CodeForces - 599D&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;给定一个整数 x，Echol 请你找出所有的整数对（n，m），使得 nm 大小的矩形刚好能有 x 个不同的正方形（正方形的边长只取正整数 1、2、3… 依次类推，并且 4 个顶点只能放置在整数坐标位置，同样大小的正方形在不同的位置算不同的正方形）。例如在一张 35 的桌子中，可以有 15 个不同的 11 大小的正方形、8 个 22 大小的正方形和 3 个 33 大小的正方形，一共有 26 个不同的正方形。&lt;/p&gt;
 &lt;p&gt;在一个 1&lt;em&gt;2 的矩形中，含有两个 1&lt;/em&gt;1 的正方形，所以一共有 2 个不同的正方形（下图红色表示不同的正方形）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://vj.z180.cn/db01132db17f3745eecf6f177d42fb6c?v=1585571942&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/image/post/cf_599/1.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在一个 2&lt;em&gt;3 的矩形中，含有 6 个 1&lt;/em&gt;1 的正方形、2 个 2*2 的正方形，也就是一共由 8 个不同的正方形（下图红色表示不同的正方形）。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://vj.z180.cn/ec4c90480f13538efa139a055b8d032f?v=1585571942&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/image/post/cf_599/2.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;现在已知一个矩形中包含一定数量的正方形，问这个矩形有多少种不同的可能。&lt;br&gt;
-例如，给定一个数字 2，也就是某个矩形 n&lt;em&gt;m 里面只能放置 2 种不同的正方形，那么这个矩形可能的大小为 1&lt;/em&gt;2 和 2*1，一共有 2 种不同的矩形满足条件。&lt;/p&gt;
+例如，给定一个数字 2，也就是某个矩形 nm 里面只能放置 2 种不同的正方形，那么这个矩形可能的大小为 12 和 2*1，一共有 2 种不同的矩形满足条件。&lt;/p&gt;
 &lt;p&gt;Input&lt;/p&gt;
 &lt;p&gt;第一行包含一个整数 &lt;em&gt;x&lt;/em&gt; (1 ≤ &lt;em&gt;x&lt;/em&gt; ≤ 10^18) — 表示矩形中包含的正方形个数。&lt;/p&gt;
 &lt;p&gt;Output&lt;/p&gt;
