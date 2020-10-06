@@ -5,8 +5,8 @@
         <link>http://jietmeier.xyz</link>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Fri, 23 Oct 2020 21:01:00 +0800</pubDate>
-        <lastBuildDate>Fri, 23 Oct 2020 21:01:00 +0800</lastBuildDate>
+        <pubDate>Sat, 03 Oct 2020 21:01:00 +0800</pubDate>
+        <lastBuildDate>Sat, 03 Oct 2020 21:01:00 +0800</lastBuildDate>
         <category>数学</category>
         <category>C/C++</category>
         <category>Hexo</category>
@@ -17,7 +17,7 @@
             <link>http://jietmeier.xyz/2020/10/cf_599/</link>
             <category>数学</category>
             <category>C/C++</category>
-            <pubDate>Fri, 23 Oct 2020 21:01:00 +0800</pubDate>
+            <pubDate>Sat, 03 Oct 2020 21:01:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;题目&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#题目&#34;&gt;#&lt;/a&gt; 题目&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://vjudge.net/problem/CodeForces-599D&#34;&gt;E - Echol 和方格&lt;/a&gt; &lt;a href=&#34;https://vjudge.net/problem/CodeForces-599D/origin&#34;&gt;CodeForces - 599D&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;给定一个整数 x，Echol 请你找出所有的整数对（n，m），使得 nm 大小的矩形刚好能有 x 个不同的正方形（正方形的边长只取正整数 1、2、3… 依次类推，并且 4 个顶点只能放置在整数坐标位置，同样大小的正方形在不同的位置算不同的正方形）。例如在一张 35 的桌子中，可以有 15 个不同的 11 大小的正方形、8 个 22 大小的正方形和 3 个 33 大小的正方形，一共有 26 个不同的正方形。&lt;/p&gt;
