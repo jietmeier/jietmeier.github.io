@@ -12,7 +12,7 @@
     <category term="排序" />
     <category term="尺取" />
     <category term="ACM新生队" />
-    <category term="拉普拉斯变换" />
+    <category term="信号" />
     <entry>
         <id>http://jietmeier.xyz/2020/10/autumnTrainingRound3/</id>
         <title>秋季训练——round3</title>
@@ -106,7 +106,7 @@
         <id>http://jietmeier.xyz/2020/10/autumnTrainingRound2/</id>
         <title>秋季训练——round2</title>
         <link rel="alternate" href="http://jietmeier.xyz/2020/10/autumnTrainingRound2/"/>
-        <content type="html">&lt;h2 id=&#34;运气好依旧不改菜鸡的本质&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#运气好依旧不改菜鸡的本质&#34;&gt;#&lt;/a&gt; 运气好依旧不改菜鸡的本质&lt;/h2&gt;
+        <content type="html">&lt;h2 id=&#34;运气好&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#运气好&#34;&gt;#&lt;/a&gt; 运气好&lt;/h2&gt;
 &lt;p&gt;周三的课，跟党课二选一，那也没办法还是要去上党课的。于是就拿着电脑去党课上写代码了。&lt;/p&gt;
 &lt;p&gt;这次做题比较顺利，先秒了 H、C、E，抢了三个一血。&lt;/p&gt;
 &lt;p&gt;D 题当时没有思路，后来想想也就会做了。&lt;/p&gt;
@@ -235,7 +235,7 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
         <id>http://jietmeier.xyz/2020/10/autumnTrainingRound1/</id>
         <title>秋季训练——round1</title>
         <link rel="alternate" href="http://jietmeier.xyz/2020/10/autumnTrainingRound1/"/>
-        <content type="html">&lt;h2 id=&#34;我太菜了&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#我太菜了&#34;&gt;#&lt;/a&gt; 我太菜了&lt;/h2&gt;
+        <content type="html">&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; ****&lt;/h2&gt;
 &lt;p&gt;第一次跟 ACM 新生队打训练赛，感觉自己之前白学了。&lt;/p&gt;
 &lt;p&gt;前四题是熟悉输入输出的，&lt;s&gt;纯考验敲代码速度&lt;/s&gt;，没有抢到一血，可惜了&lt;/p&gt;
 &lt;p&gt;E 题最开始看起来难得没法做，后来换题了。&lt;/p&gt;
