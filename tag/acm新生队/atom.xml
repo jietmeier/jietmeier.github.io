@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://jietmeier.xyz</id>
+    <id>http://jietmeier.gitee.io</id>
     <title>jietmeier&#39;s blog • Posts by &#34;acm新生队&#34; tag</title>
-    <link href="http://jietmeier.xyz" />
+    <link href="http://jietmeier.gitee.io" />
     <updated>2020-10-27T14:34:00.000Z</updated>
     <category term="数学" />
     <category term="C/C++" />
@@ -14,9 +14,9 @@
     <category term="ACM新生队" />
     <category term="信号" />
     <entry>
-        <id>http://jietmeier.xyz/2020/10/autumnTrainingRound3/</id>
+        <id>http://jietmeier.gitee.io/2020/10/autumnTrainingRound3/</id>
         <title>秋季训练——round3</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/autumnTrainingRound3/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/autumnTrainingRound3/"/>
         <content type="html">&lt;h2 id=&#34;后半程gg&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后半程gg&#34;&gt;#&lt;/a&gt; 后半程 GG&lt;/h2&gt;
 &lt;p&gt;虽然没有抢到一血，但前一个半小时还算顺利，正常做出了 6 个题。&lt;/p&gt;
 &lt;p&gt;C 题 PE 了两次，没注意到空格的问题。&lt;/p&gt;
@@ -103,9 +103,9 @@
         <updated>2020-10-27T14:34:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://jietmeier.xyz/2020/10/autumnTrainingRound2/</id>
+        <id>http://jietmeier.gitee.io/2020/10/autumnTrainingRound2/</id>
         <title>秋季训练——round2</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/autumnTrainingRound2/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/autumnTrainingRound2/"/>
         <content type="html">&lt;h2 id=&#34;运气好&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#运气好&#34;&gt;#&lt;/a&gt; 运气好&lt;/h2&gt;
 &lt;p&gt;周三的课，跟党课二选一，那也没办法还是要去上党课的。于是就拿着电脑去党课上写代码了。&lt;/p&gt;
 &lt;p&gt;这次做题比较顺利，先秒了 H、C、E，抢了三个一血。&lt;/p&gt;
@@ -197,9 +197,9 @@
         <updated>2020-10-25T11:26:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://jietmeier.xyz/2020/10/autumnTrainingRound1/</id>
+        <id>http://jietmeier.gitee.io/2020/10/autumnTrainingRound1/</id>
         <title>秋季训练——round1</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/autumnTrainingRound1/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/autumnTrainingRound1/"/>
         <content type="html">&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; ****&lt;/h2&gt;
 &lt;p&gt;第一次跟 ACM 新生队打训练赛，感觉自己之前白学了。&lt;/p&gt;
 &lt;p&gt;前四题是熟悉输入输出的，&lt;s&gt;纯考验敲代码速度&lt;/s&gt;，没有抢到一血，可惜了&lt;/p&gt;

@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://jietmeier.xyz</id>
+    <id>http://jietmeier.gitee.io</id>
     <title>jietmeier&#39;s blog • Posts by &#34;尺取&#34; tag</title>
-    <link href="http://jietmeier.xyz" />
+    <link href="http://jietmeier.gitee.io" />
     <updated>2020-10-20T08:59:12.000Z</updated>
     <category term="数学" />
     <category term="C/C++" />
@@ -14,9 +14,9 @@
     <category term="ACM新生队" />
     <category term="信号" />
     <entry>
-        <id>http://jietmeier.xyz/2020/10/rule/</id>
+        <id>http://jietmeier.gitee.io/2020/10/rule/</id>
         <title>基础算法——尺取</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/rule/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/rule/"/>
         <content type="html">&lt;h2 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h2&gt;
 &lt;p&gt;首先，尺取法就是形如一把尺子的方法，去一块一块的截取你所需要的序列。&lt;/p&gt;
 &lt;blockquote&gt;

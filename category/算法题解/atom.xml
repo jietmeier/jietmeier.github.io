@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://jietmeier.xyz</id>
+    <id>http://jietmeier.gitee.io</id>
     <title>jietmeier&#39;s blog • Posts by &#34;算法题解&#34; category</title>
-    <link href="http://jietmeier.xyz" />
+    <link href="http://jietmeier.gitee.io" />
     <updated>2020-10-27T14:34:00.000Z</updated>
     <category term="数学" />
     <category term="C/C++" />
@@ -14,9 +14,9 @@
     <category term="ACM新生队" />
     <category term="信号" />
     <entry>
-        <id>http://jietmeier.xyz/2020/10/autumnTrainingRound3/</id>
+        <id>http://jietmeier.gitee.io/2020/10/autumnTrainingRound3/</id>
         <title>秋季训练——round3</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/autumnTrainingRound3/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/autumnTrainingRound3/"/>
         <content type="html">&lt;h2 id=&#34;后半程gg&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#后半程gg&#34;&gt;#&lt;/a&gt; 后半程 GG&lt;/h2&gt;
 &lt;p&gt;虽然没有抢到一血，但前一个半小时还算顺利，正常做出了 6 个题。&lt;/p&gt;
 &lt;p&gt;C 题 PE 了两次，没注意到空格的问题。&lt;/p&gt;
@@ -103,9 +103,9 @@
         <updated>2020-10-27T14:34:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://jietmeier.xyz/2020/10/autumnTrainingRound2/</id>
+        <id>http://jietmeier.gitee.io/2020/10/autumnTrainingRound2/</id>
         <title>秋季训练——round2</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/autumnTrainingRound2/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/autumnTrainingRound2/"/>
         <content type="html">&lt;h2 id=&#34;运气好&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#运气好&#34;&gt;#&lt;/a&gt; 运气好&lt;/h2&gt;
 &lt;p&gt;周三的课，跟党课二选一，那也没办法还是要去上党课的。于是就拿着电脑去党课上写代码了。&lt;/p&gt;
 &lt;p&gt;这次做题比较顺利，先秒了 H、C、E，抢了三个一血。&lt;/p&gt;
@@ -197,9 +197,9 @@
         <updated>2020-10-25T11:26:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://jietmeier.xyz/2020/10/rule/</id>
+        <id>http://jietmeier.gitee.io/2020/10/rule/</id>
         <title>基础算法——尺取</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/rule/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/rule/"/>
         <content type="html">&lt;h2 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h2&gt;
 &lt;p&gt;首先，尺取法就是形如一把尺子的方法，去一块一块的截取你所需要的序列。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -232,9 +232,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
         <updated>2020-10-20T08:59:12.000Z</updated>
     </entry>
     <entry>
-        <id>http://jietmeier.xyz/2020/10/autumnTrainingRound1/</id>
+        <id>http://jietmeier.gitee.io/2020/10/autumnTrainingRound1/</id>
         <title>秋季训练——round1</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/autumnTrainingRound1/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/autumnTrainingRound1/"/>
         <content type="html">&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; ****&lt;/h2&gt;
 &lt;p&gt;第一次跟 ACM 新生队打训练赛，感觉自己之前白学了。&lt;/p&gt;
 &lt;p&gt;前四题是熟悉输入输出的，&lt;s&gt;纯考验敲代码速度&lt;/s&gt;，没有抢到一血，可惜了&lt;/p&gt;
@@ -310,9 +310,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
         <updated>2020-10-15T09:05:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://jietmeier.xyz/2020/10/sort/</id>
+        <id>http://jietmeier.gitee.io/2020/10/sort/</id>
         <title>排序算法</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/sort/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/sort/"/>
         <content type="html">&lt;h3 id=&#34;归并排序&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#归并排序&#34;&gt;#&lt;/a&gt; 归并排序&lt;/h3&gt;
 &lt;h4 id=&#34;思路&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#思路&#34;&gt;#&lt;/a&gt; 思路&lt;/h4&gt;
 &lt;p&gt;对于一个长度为 n 的数组，先分成两个长度为 n/2 的子数组，对于两个数组分别排序，排好序后再合并。&lt;/p&gt;
@@ -332,9 +332,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
         <updated>2020-10-13T05:28:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://jietmeier.xyz/2020/10/fenzhisort/</id>
+        <id>http://jietmeier.gitee.io/2020/10/fenzhisort/</id>
         <title>归并排序+逆序对</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/fenzhisort/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/fenzhisort/"/>
         <content type="html">&lt;p&gt;&lt;a href=&#34;https://vjudge.net/problem/HihoCoder-1141/origin&#34;&gt;HihoCoder - 1141&lt;/a&gt;&lt;/p&gt;
 &lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;14&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;15&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;16&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;17&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;18&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;19&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;20&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;21&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;22&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;23&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;24&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;25&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;26&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;27&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;28&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;29&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;30&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;31&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;32&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;33&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;34&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;meta&#34;&gt;#&lt;span class=&#34;meta-keyword&#34;&gt;include&lt;/span&gt; &lt;span class=&#34;meta-string&#34;&gt;&amp;lt;cstdio&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; a[&lt;span class=&#34;number&#34;&gt;100005&lt;/span&gt;],t[&lt;span class=&#34;number&#34;&gt;100005&lt;/span&gt;];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;typedef&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;long&lt;/span&gt; &lt;span class=&#34;keyword&#34;&gt;long&lt;/span&gt; ll;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;/*归并排序+逆序对*/&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;ll &lt;span class=&#34;title&#34;&gt;sort&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;(&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; first, &lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; last)&lt;/span&gt;&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (last-first&amp;lt;&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;) &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; mid = (first+last)/&lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ll ans = sort(first,mid)+sort(mid,last);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; tInx = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;,i = first,j = mid;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; (i&amp;lt;mid &amp;amp;&amp;amp; j&amp;lt;last)&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &lt;span class=&#34;keyword&#34;&gt;if&lt;/span&gt; (a[i]&amp;lt;=a[j])&amp;#123; &lt;span class=&#34;comment&#34;&gt;// 一定是不大于&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            t[tInx++]=a[i++];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;span class=&#34;keyword&#34;&gt;else&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            ans+=mid-i; &lt;span class=&#34;comment&#34;&gt;// 记录逆序对个数&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;            t[tInx++]=a[j++];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;        &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; (i&amp;lt;mid) t[tInx++]=a[i++];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;while&lt;/span&gt; (j&amp;lt;last) t[tInx++]=a[j++];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; (i=first,j=&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;i&amp;lt;last;i++,j++) a[i]=t[j];&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; ans;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;function&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;title&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;params&#34;&gt;()&lt;/span&gt;&lt;/span&gt;&amp;#123;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; N;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;scanf&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;%d&amp;quot;&lt;/span&gt;,&amp;amp;N);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; (&lt;span class=&#34;keyword&#34;&gt;int&lt;/span&gt; i=&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;i&amp;lt;N;i++) &lt;span class=&#34;built_in&#34;&gt;scanf&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;%d&amp;quot;&lt;/span&gt;,&amp;amp;a[i]);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    ll ans=sort(&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;,N);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;printf&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;quot;%lld\n&amp;quot;&lt;/span&gt;,ans);&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// for (int i=0;i&amp;lt;N-1;i++)&amp;#123;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;//     printf(&amp;quot;%d\n&amp;quot;,a[i]);&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// &amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;comment&#34;&gt;// printf(&amp;quot;%d\n&amp;quot;,a[N-1]);&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;#125;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 </content>
@@ -344,9 +344,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
         <updated>2020-10-13T05:28:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://jietmeier.xyz/2020/10/hdu_1007/</id>
+        <id>http://jietmeier.gitee.io/2020/10/hdu_1007/</id>
         <title>平面最近点对——HDU-1007</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/hdu_1007/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/hdu_1007/"/>
         <content type="html">&lt;h2 id=&#34;题目&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#题目&#34;&gt;#&lt;/a&gt; 题目&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://vjudge.net/problem/HDU-1007&#34;&gt;D - 套环游戏设计&lt;/a&gt;  &lt;a href=&#34;https://vjudge.net/problem/HDU-1007/origin&#34;&gt;HDU - 1007 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;你是否玩过套环游戏？套环游戏就是用环去套一些玩具，套中的玩具就作为奖励送给你。在二维平面上，每个玩具的位置是固定的，用来套环的环也是精心设计的，使得每次最多只能套中一个玩具。为了让套环游戏更有吸引力，Lucas_V 同学决定将环的半径设计的尽量最大。给定一个平面和平面上放置在固定位置的 n 个玩具，请你帮 Lucas_V 同学找到这个环的最大半径。&lt;br&gt;
@@ -401,9 +401,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
         <updated>2020-10-08T03:05:00.000Z</updated>
     </entry>
     <entry>
-        <id>http://jietmeier.xyz/2020/10/cf_599/</id>
+        <id>http://jietmeier.gitee.io/2020/10/cf_599/</id>
         <title>cf_599d题解</title>
-        <link rel="alternate" href="http://jietmeier.xyz/2020/10/cf_599/"/>
+        <link rel="alternate" href="http://jietmeier.gitee.io/2020/10/cf_599/"/>
         <content type="html">&lt;h2 id=&#34;题目&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#题目&#34;&gt;#&lt;/a&gt; 题目&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://vjudge.net/problem/CodeForces-599D&#34;&gt;E - Echol 和方格&lt;/a&gt; &lt;a href=&#34;https://vjudge.net/problem/CodeForces-599D/origin&#34;&gt;CodeForces - 599D&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;给定一个整数 x，Echol 请你找出所有的整数对（n，m），使得 nm 大小的矩形刚好能有 x 个不同的正方形（正方形的边长只取正整数 1、2、3… 依次类推，并且 4 个顶点只能放置在整数坐标位置，同样大小的正方形在不同的位置算不同的正方形）。例如在一张 35 的桌子中，可以有 15 个不同的 11 大小的正方形、8 个 22 大小的正方形和 3 个 33 大小的正方形，一共有 26 个不同的正方形。&lt;/p&gt;

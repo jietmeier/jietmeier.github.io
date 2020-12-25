@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>jietmeier&#39;s blog • Posts by &#34;尺取&#34; tag</title>
-        <link>http://jietmeier.xyz</link>
+        <link>http://jietmeier.gitee.io</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Tue, 20 Oct 2020 16:59:12 +0800</pubDate>
@@ -17,9 +17,9 @@
         <category>ACM新生队</category>
         <category>信号</category>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/rule/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/rule/</guid>
             <title>基础算法——尺取</title>
-            <link>http://jietmeier.xyz/2020/10/rule/</link>
+            <link>http://jietmeier.gitee.io/2020/10/rule/</link>
             <category>尺取</category>
             <pubDate>Tue, 20 Oct 2020 16:59:12 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h2&gt;

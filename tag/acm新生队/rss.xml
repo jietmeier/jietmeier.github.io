@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>jietmeier&#39;s blog • Posts by &#34;acm新生队&#34; tag</title>
-        <link>http://jietmeier.xyz</link>
+        <link>http://jietmeier.gitee.io</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Tue, 27 Oct 2020 22:34:00 +0800</pubDate>
@@ -17,9 +17,9 @@
         <category>ACM新生队</category>
         <category>信号</category>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/autumnTrainingRound3/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/autumnTrainingRound3/</guid>
             <title>秋季训练——round3</title>
-            <link>http://jietmeier.xyz/2020/10/autumnTrainingRound3/</link>
+            <link>http://jietmeier.gitee.io/2020/10/autumnTrainingRound3/</link>
             <category>C/C++</category>
             <category>ACM新生队</category>
             <pubDate>Tue, 27 Oct 2020 22:34:00 +0800</pubDate>
@@ -106,9 +106,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/autumnTrainingRound2/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/autumnTrainingRound2/</guid>
             <title>秋季训练——round2</title>
-            <link>http://jietmeier.xyz/2020/10/autumnTrainingRound2/</link>
+            <link>http://jietmeier.gitee.io/2020/10/autumnTrainingRound2/</link>
             <category>C/C++</category>
             <category>ACM新生队</category>
             <pubDate>Sun, 25 Oct 2020 19:26:00 +0800</pubDate>
@@ -200,9 +200,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/autumnTrainingRound1/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/autumnTrainingRound1/</guid>
             <title>秋季训练——round1</title>
-            <link>http://jietmeier.xyz/2020/10/autumnTrainingRound1/</link>
+            <link>http://jietmeier.gitee.io/2020/10/autumnTrainingRound1/</link>
             <category>C/C++</category>
             <category>ACM新生队</category>
             <pubDate>Thu, 15 Oct 2020 17:05:00 +0800</pubDate>

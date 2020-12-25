@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>jietmeier&#39;s blog • Posts by &#34;排序&#34; tag</title>
-        <link>http://jietmeier.xyz</link>
+        <link>http://jietmeier.gitee.io</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Tue, 13 Oct 2020 13:28:00 +0800</pubDate>
@@ -17,9 +17,9 @@
         <category>ACM新生队</category>
         <category>信号</category>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/sort/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/sort/</guid>
             <title>排序算法</title>
-            <link>http://jietmeier.xyz/2020/10/sort/</link>
+            <link>http://jietmeier.gitee.io/2020/10/sort/</link>
             <category>C/C++</category>
             <category>分治</category>
             <category>排序</category>
@@ -39,9 +39,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/fenzhisort/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/fenzhisort/</guid>
             <title>归并排序+逆序对</title>
-            <link>http://jietmeier.xyz/2020/10/fenzhisort/</link>
+            <link>http://jietmeier.gitee.io/2020/10/fenzhisort/</link>
             <category>C/C++</category>
             <category>分治</category>
             <category>排序</category>

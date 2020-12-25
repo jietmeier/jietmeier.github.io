@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>jietmeier&#39;s blog • Posts by &#34;算法题解&#34; category</title>
-        <link>http://jietmeier.xyz</link>
+        <link>http://jietmeier.gitee.io</link>
         <description></description>
         <language>zh-CN</language>
         <pubDate>Tue, 27 Oct 2020 22:34:00 +0800</pubDate>
@@ -17,9 +17,9 @@
         <category>ACM新生队</category>
         <category>信号</category>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/autumnTrainingRound3/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/autumnTrainingRound3/</guid>
             <title>秋季训练——round3</title>
-            <link>http://jietmeier.xyz/2020/10/autumnTrainingRound3/</link>
+            <link>http://jietmeier.gitee.io/2020/10/autumnTrainingRound3/</link>
             <category>C/C++</category>
             <category>ACM新生队</category>
             <pubDate>Tue, 27 Oct 2020 22:34:00 +0800</pubDate>
@@ -106,9 +106,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/autumnTrainingRound2/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/autumnTrainingRound2/</guid>
             <title>秋季训练——round2</title>
-            <link>http://jietmeier.xyz/2020/10/autumnTrainingRound2/</link>
+            <link>http://jietmeier.gitee.io/2020/10/autumnTrainingRound2/</link>
             <category>C/C++</category>
             <category>ACM新生队</category>
             <pubDate>Sun, 25 Oct 2020 19:26:00 +0800</pubDate>
@@ -200,9 +200,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/rule/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/rule/</guid>
             <title>基础算法——尺取</title>
-            <link>http://jietmeier.xyz/2020/10/rule/</link>
+            <link>http://jietmeier.gitee.io/2020/10/rule/</link>
             <category>尺取</category>
             <pubDate>Tue, 20 Oct 2020 16:59:12 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h2&gt;
@@ -235,9 +235,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/autumnTrainingRound1/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/autumnTrainingRound1/</guid>
             <title>秋季训练——round1</title>
-            <link>http://jietmeier.xyz/2020/10/autumnTrainingRound1/</link>
+            <link>http://jietmeier.gitee.io/2020/10/autumnTrainingRound1/</link>
             <category>C/C++</category>
             <category>ACM新生队</category>
             <pubDate>Thu, 15 Oct 2020 17:05:00 +0800</pubDate>
@@ -313,9 +313,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/sort/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/sort/</guid>
             <title>排序算法</title>
-            <link>http://jietmeier.xyz/2020/10/sort/</link>
+            <link>http://jietmeier.gitee.io/2020/10/sort/</link>
             <category>C/C++</category>
             <category>分治</category>
             <category>排序</category>
@@ -335,9 +335,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/fenzhisort/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/fenzhisort/</guid>
             <title>归并排序+逆序对</title>
-            <link>http://jietmeier.xyz/2020/10/fenzhisort/</link>
+            <link>http://jietmeier.gitee.io/2020/10/fenzhisort/</link>
             <category>C/C++</category>
             <category>分治</category>
             <category>排序</category>
@@ -347,9 +347,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/hdu_1007/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/hdu_1007/</guid>
             <title>平面最近点对——HDU-1007</title>
-            <link>http://jietmeier.xyz/2020/10/hdu_1007/</link>
+            <link>http://jietmeier.gitee.io/2020/10/hdu_1007/</link>
             <category>C/C++</category>
             <category>分治</category>
             <pubDate>Thu, 08 Oct 2020 11:05:00 +0800</pubDate>
@@ -404,9 +404,9 @@ Bob 决定随意选择从第 i 件衣服开始试穿，他会一件一件的从�
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://jietmeier.xyz/2020/10/cf_599/</guid>
+            <guid isPermalink="true">http://jietmeier.gitee.io/2020/10/cf_599/</guid>
             <title>cf_599d题解</title>
-            <link>http://jietmeier.xyz/2020/10/cf_599/</link>
+            <link>http://jietmeier.gitee.io/2020/10/cf_599/</link>
             <category>数学</category>
             <category>C/C++</category>
             <pubDate>Sat, 03 Oct 2020 21:01:00 +0800</pubDate>
